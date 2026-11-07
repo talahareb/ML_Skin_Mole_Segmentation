@@ -1,0 +1,10 @@
+# Local datasets, output, caches, and environments
+data/
+outputs/
+results/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
